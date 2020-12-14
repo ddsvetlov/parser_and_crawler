@@ -1,0 +1,7 @@
+Dogs list: 
+- pug 
+- corgi 
+- ​beagle 
+- boxer 
+- dachshund 
+ 
